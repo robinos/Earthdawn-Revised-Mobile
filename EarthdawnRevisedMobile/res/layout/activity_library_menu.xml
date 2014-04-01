@@ -1,0 +1,73 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	        xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/library_menu_scroll_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+	<LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    tools:context=".LibraryMenuActivity" 
+	    android:orientation="vertical" >
+	    
+	    <Button
+	        android:id="@+id/bNamegivers"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="true"
+	        android:onClick="libraryNamegivers"	        	        
+	        android:text="@string/button_namegivers" />
+	
+	    <Button
+	        android:id="@+id/bDisciplines"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="false"
+	        android:onClick="libraryDisciplines"	        
+	        android:text="@string/button_disciplines" />
+
+	    <Button
+	        android:id="@+id/bTalents"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="false"
+	        android:onClick="libraryTalents"	        
+	        android:text="@string/button_talents" />	    
+
+	    <Button
+	        android:id="@+id/bSkills"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="false"
+	        android:onClick="librarySkills"	        
+	        android:text="@string/button_skills" />	    
+	    
+	    <Button
+	        android:id="@+id/bSpells"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="false"
+	        android:onClick="librarySpells"		        
+	        android:text="@string/button_spells" />
+	    
+	    <Button
+	        android:id="@+id/bGeneral"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginTop="5dp"
+	        android:focusable="true"
+	        android:enabled="false"
+	        android:onClick="librarySpells"		        
+	        android:text="@string/button_general" />		    	    
+	</LinearLayout>
+</ScrollView>

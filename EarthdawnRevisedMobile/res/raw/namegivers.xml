@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<namegivers>     
+    <namegivers>
+	    <race>
+	        <raceName>Dwarf</raceName>
+	        <racialInfo>A Dwarf's first loyalty is to family and tribe, though they embrace concepts of kingdoms and nations.  Dwarves are loyal and efficient, but aggresive, stubborn, and lacking in social graces.  They prefer to live underground or as close to the earth as possible and can develop 'home-sickness' for the underground.  Dwarves dislike travelling on riding animals and are poor swimmers.</racialInfo>
+	        <skinDescription>Skin tones range from pinkish white to dark ebony, with tattoo variations.</skinDescription>                     
+	        <hairDescription>Hair grows in abundance in normal colours.</hairDescription>
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Dwarves have short and stocky builds.  They are broad-chested, tough, and strong for their size. They are poor runners, as their legs are disproportionately short for their bodies.  Dwarf ears usually come to a gentle point, less prounounced than with elf ears.</miscDescription>        
+	        <dex>10</dex>        
+	        <str>12</str>
+	        <tou>13</tou>
+	        <per>10</per>        
+	        <wil>10</wil>        
+	        <cha>8</cha> 
+	        <karmaModifier>4</karmaModifier>
+	        <karmaStep>4</karmaStep>               
+	        <averageHeight>5.0</averageHeight>   
+	        <averageWeight>100</averageWeight>
+	        <averageLifespan>75</averageLifespan>                     
+	        <ageOfMaturity>15</ageOfMaturity>
+	        <groundMovementRate>10</groundMovementRate>
+	        <flyingMovementRate>0</flyingMovementRate>   
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>
+		            <name>Heat Sight</name> 
+		            <defaultUse>no</defaultUse>            
+		            <rank>0</rank>                       
+		            <actionType>Simple</actionType>
+		            <duration>0</duration>
+		            <durationType>Activated/deactivated as a Simple Action</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>             
+		            <effect>Characters can visually perceive heat emissions between an object or creature and the background temperature as varying extremes of colour.  White is most extreme and violet is weakest. Heat Sight replaces normal vision and impairs the perception of non-heat details.  Magical effects that prevent normal vision will also affect Heat Sight, and Heat Sight does not penetrate through objects.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+	            </ability>
+	        </racialAbilities>
+	    </race>
+	    <race>
+	        <raceName>Elf</raceName>  
+	        <racialInfo>Elves give primary loyalty to family, considering blood ties binding.  Elves revere the beauty of nature and prefer building surrounded and in tune with nature, but find underground areas uncomfortable.  Elves in human or dwarven settlements can feel claustraphobic if they do not visit a wilderness area 2-3 times per year.</racialInfo>
+	        <skinDescription>Skin tones range from pure white to pure black, with many colours inbetween.</skinDescription>              
+	        <hairDescription>Sparse body hair but luxuriant head and facial hair in normal to unusual colours.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Elves have elongated, sharply pointed ears.  They are graceful with long legs for their height, but vulnerable to injury.</miscDescription>        
+	        <dex>12</dex>
+	        <str>10</str>
+	        <tou>8</tou>
+	        <per>11</per>        
+	        <wil>11</wil>
+	        <cha>11</cha>         
+	        <karmaModifier>4</karmaModifier>
+	        <karmaStep>4</karmaStep>        
+	        <averageHeight>6.3</averageHeight>
+	        <averageWeight>150</averageWeight>         
+	        <averageLifespan>300</averageLifespan>  
+	        <ageOfMaturity>20</ageOfMaturity>         
+	        <groundMovementRate>14</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Low-light Vision</name>
+		            <defaultUse>no</defaultUse>                                    
+		            <rank>0</rank>            
+		            <actionType>Automatic, no action</actionType>
+		            <duration>0</duration>
+		            <durationType>While light levels are reduced.</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>            
+		            <effect>Allows characters to see at much lower light levels than humans.  Starlight provides plenty of light at night, and with cloud cover light levels are as dusk for humans. Complete darkness still renders characters unable to see.  Characters are not more vulnerable to flash-blindness than humans.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma> 
+	            </ability>           
+	        </racialAbilities>
+	    </race>
+	    <race>
+	        <raceName>Human</raceName>  
+	        <racialInfo>Humans feel a natural loyalty to their families, and can transfer loyalty to tribes, cities, or kingdoms, but do not adapt as well to large societies as Dwarves.  They are more haphazard than dwarves, but feel uncomfortable in elven settlements.  Humans display a wide variety of cultural practices.</racialInfo>
+	        <skinDescription>Skin tones range from pinkish white to ebony.</skinDescription>              
+	        <hairDescription>Less body hair than most races but more than elves, and in normal colours.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Humans have small rounded ears.</miscDescription>        
+	        <dex>10</dex>
+	        <str>10</str>
+	        <tou>10</tou>
+	        <per>10</per>        
+	        <wil>10</wil>
+	        <cha>10</cha>         
+	        <karmaModifier>5</karmaModifier>
+	        <karmaStep>5</karmaStep>        
+	        <averageHeight>5.7</averageHeight>
+	        <averageWeight>150</averageWeight>         
+	        <averageLifespan>75</averageLifespan>  
+	        <ageOfMaturity>15</ageOfMaturity>         
+	        <groundMovementRate>12</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Talent</type>            
+		            <name>Versatility</name>  
+		            <defaultUse>no</defaultUse>                                  
+		            <rank>0</rank>            
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>NA</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType> 
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                       
+		            <effect>A human adept with Versatility Ranks may learn a number of talents from Disciplines other than his own, equal to his Versatility rank, paying the same Legend Point cost as a member of that Discipline would to gain those talents. An adept cannot learn a talent from a Circle greater than his highest Discipline Circle, and talents learned so are never Discipline talents.  The adept must be trained by a member of the appropriate Discipline for each talent that he learns.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+	            </ability>
+	        </racialAbilities>
+	    </race>
+	    <race>
+	        <raceName>Obsidiman</raceName>  
+	        <racialInfo>Obsidimen are part of Brotherhoods from the same Liferock that spawned them, and regularly merge for communion.  They are slow when approaching mundane matters and unsettled by hastiness in other races. Obsidimen value innocent life and become angered if it, or their liferock, is threatened. 
+	Obsidimen seldom become Sky Raiders or Air Sailors, do not normally get an opportunity to become Cavalrymen, and the ways of the Archer and Swordmaster generally require too much finesse for obsidimen.</racialInfo>
+	        <skinDescription>Craggy rock-textured skin, commonly in colours of grey to black, sometimes with semi-precious stone veins.</skinDescription>              
+	        <hairDescription>Mostly hairless.</hairDescription>        
+	        <eyeDescription>Eyes are in normal and rocky colours.</eyeDescription>        
+	        <miscDescription>Obsidimen have internal ears completely covered by a thin layer of skin.  Obsidimen are sexless but may choose a gender identity.  Their blood is bluish-grey.</miscDescription>        
+	        <dex>8</dex>
+	        <str>18</str>
+	        <tou>13</tou>
+	        <per>9</per>        
+	        <wil>10</wil>
+	        <cha>9</cha>         
+	        <karmaModifier>3</karmaModifier>
+	        <karmaStep>4</karmaStep>        
+	        <averageHeight>7.3</averageHeight>
+	        <averageWeight>900</averageWeight>         
+	        <averageLifespan>900</averageLifespan>  
+	        <ageOfMaturity>15</ageOfMaturity>         
+	        <groundMovementRate>10</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Increased Wound Threshold</name> 
+		            <defaultUse>no</defaultUse>                                  
+		            <rank>0</rank>            
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>NA</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>    
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                    
+		            <effect>Add 3 to the Wound Threshold of obsidimen. This ability represents this race’s inherent resistance to damage from their stone-like skin.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages> 
+	            </ability>           
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Natural Armour</name>                        
+		            <rank>0</rank>            
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>NA</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>  
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                      
+		            <effect>Obsidiman skin has a Physical Armor Rating of 3. Obsidimen have very tough skin, which serves them as armor.  Obsidimen can only wear other types of living armor, which add their protection to the character’s Natural Armor.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>
+	            </ability>            
+	        </racialAbilities>        
+	    </race>
+	    <race>
+	        <raceName>Ork</raceName>  
+	        <racialInfo>Orks recognise only a loose concept of family, giving greatest loyalty to their tribe, but social organisation within a tribe is often adopted from other races.  Orks are passionate, freedom-loving people who often travel in nomadic fashion, and live fast and intense lives.</racialInfo>
+	        <skinDescription>Commonly olive green, pinkish-white, beige, tan, or ebony.</skinDescription>              
+	        <hairDescription>Body hair has a coarse texture and is usually grey or black with coarse textures.  Some are nearly hairless.  Head hair grows in sparsely, but like thick wire.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Orks have pointed, often elongated ears, and lower canines that protrude over their lower lip.  They have a powerful build, are as tall as elves, and are more muscular than humans.</miscDescription>        
+	        <dex>10</dex>
+	        <str>13</str>
+	        <tou>11</tou>
+	        <per>10</per>        
+	        <wil>8</wil>
+	        <cha>9</cha>         
+	        <karmaModifier>5</karmaModifier>
+	        <karmaStep>5</karmaStep>        
+	        <averageHeight>6.3</averageHeight>
+	        <averageWeight>225</averageWeight>         
+	        <averageLifespan>40</averageLifespan>  
+	        <ageOfMaturity>13</ageOfMaturity>         
+	        <groundMovementRate>12</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Gahad</name>     
+		            <defaultUse>no</defaultUse>                                 
+		            <rank>0</rank>            
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>NA</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType> 
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                       
+		            <effect>Gahad is triggered in orks by certain circumstances or situations, causing them to feel a drive to eradicate the situation triggering the gahad or take revenge on the perpetrator. When giving in to gahad or when failing to resist it, the character is driven to end the stimuli that triggered gahad or to take revenge on a character that caused it.  For as long as the hangover would have lasted, the character is granted a +1 bonus to any Action or Effect Test made towards ending the stimulus or taking revenge. To resist gahad, the character has to succeed at a Willpower (6) Test, but requires a Result Level that depends on the severity of the trigger. Resisting, or swallowing, gahad successfully causes a gahad hangover that begins within an hour of swallowing gahad and lasts for one hour per Result Level required on the Willpower Test. While it lasts, the character is considered Harried.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages> 
+	            </ability>   
+	            <ability>        
+		            <type>Racial Ability</type>             
+		            <name>Low-light Vision</name>          
+		            <defaultUse>no</defaultUse>                                     
+		            <rank>0</rank>            
+		            <actionType>Automatic, no action</actionType>
+		            <duration>0</duration>
+		            <durationType>While light levels are reduced.</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                        
+		            <effect>Allows characters to see at much lower light levels than humans.  Starlight provides plenty of light at night, and with cloud cover light levels are as dusk for humans. Complete darkness still renders characters unable to see.  Characters are not more vulnerable to flash-blindness than humans.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>    
+		        </ability>             
+	        </racialAbilities>       
+	    </race>
+	    <race>
+	        <raceName>Troll</raceName>  
+	        <racialInfo>The most important part of a Troll's life is honour, which extends to self, family, clan, and race, and may extend more loosely beyond such.  They are fiercely loyal to family and clan.  Trolls prefer to live in caves, ice caverns, and geographical features, and find dwarf, elf, and obsidiman settlements more comfortable than human or ork ones. Trolls rarely become Thieves, as their culture’s honor forbids them from stealing in secret, instead dictating that they take openly with a show of force.</racialInfo>
+	        <skinDescription>Rough with natural ridges, spines, or plating, in colours from olive to mahogany brown.</skinDescription>              
+	        <hairDescription>Body hair is sparse, except chest hair, while head hair grows very thick and long.  Found in normal colours.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Many trolls have protruding canines like orcs, but their most exceptional feature is a pair of large horns.  They also have broader noses than humans.</miscDescription>        
+	        <dex>10</dex>
+	        <str>14</str>
+	        <tou>12</tou>
+	        <per>9</per>        
+	        <wil>11</wil>
+	        <cha>10</cha>         
+	        <karmaModifier>3</karmaModifier>
+	        <karmaStep>4</karmaStep>        
+	        <averageHeight>8.6</averageHeight>
+	        <averageWeight>500</averageWeight>         
+	        <averageLifespan>50</averageLifespan>  
+	        <ageOfMaturity>13</ageOfMaturity>         
+	        <groundMovementRate>14</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Heat Sight</name> 
+		            <defaultUse>no</defaultUse>                         
+		            <rank>0</rank>                       
+		            <actionType>Simple</actionType>
+		            <duration>0</duration>
+		            <durationType>Activated/deactivated as a Simple Action</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType> 
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                       
+		            <effect>Characters can visually perceive heat emissions between an object or creature and the background temperature as varying extremes of colour.  White is most extreme and violet is weakest. Heat Sight replaces normal vision and impairs the perception of non-heat details.  Magical effects that prevent normal vision will also affect Heat Sight, and Heat Sight does not penetrate through objects.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>   
+	            </ability>         
+	        </racialAbilities>     
+	    </race>
+	    <race>
+	        <raceName>T'skrang</raceName>  
+	        <racialInfo>T'skrang give primary loyal to their families, called Nialls or Foundations.  It is matriarchal and led by a lahala, the eldest female.  T'skrang prefer to live in roofed dwellings along bodies of water, often with part submerged, and become irritable if unable to immerse themselves in water at least once per week.</racialInfo>
+	        <skinDescription>Verdant-green, green-yellow, green-blue, aqua-blue, or even sunset-red.</skinDescription>              
+	        <hairDescription>None.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>T'skrang have cauliflower-shaped ears set into the sides of their heads.  Their tails add another 6" to their length, and 40 lbs of their weight is tail.</miscDescription>        
+	        <dex>11</dex>
+	        <str>10</str>
+	        <tou>11</tou>
+	        <per>10</per>        
+	        <wil>10</wil>
+	        <cha>11</cha>         
+	        <karmaModifier>4</karmaModifier>
+	        <karmaStep>4</karmaStep>        
+	        <averageHeight>5.9</averageHeight>
+	        <averageWeight>200</averageWeight>         
+	        <averageLifespan>80</averageLifespan>  
+	        <ageOfMaturity>10</ageOfMaturity>         
+	        <groundMovementRate>12</groundMovementRate>           
+	        <flyingMovementRate>0</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Racial Ability</type>            
+		            <name>Tail Combat</name> 
+		            <defaultUse>no</defaultUse>                         
+		            <rank>0</rank>                       
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>NA</durationType>
+		            <range>0</range>
+		            <rangeType>Melee</rangeType>  
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                      
+		            <effect>A t’skrang can use his tail to whip at opponents in unarmed combat much like striking with an arm or kicking with a leg, using an appropriate unarmed combat talent or skill for any Attack Tests. The Damage Step used is the character’s Strength Step, unless modified by abilities that enhance unarmed combat Damage. A t’skrang may fasten a melee weapon of up to Size 2 to his tail and this is treated as an Attached Weapon. Tail Combat allows t’skrang to use the Tail Attack and Tail Parry combat options.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages> 
+	            </ability>           
+	        </racialAbilities>     
+	    </race>
+	    <race>
+	        <raceName>Windling</raceName>  
+	        <racialInfo>Windlings live in clans but often travel and explore. They revere freedom, abhor slavery, and are very perceptive to dangers.  Windling society is haphazard, but they do directly obey a noble.  Windlings are happiest living in the outdoors. Windlings seldom become Nethermancers, as their culture celebrates life, and contact with the afterlife is unsettling to them. They also seldom become Sky Raiders, as the way of the Sky Raider emphasizes physical prowess and brute force over cunning and subtlety.</racialInfo>
+	        <skinDescription>Skin matches the brightest colour in the environment the windling lives in, and changes after living somewhere new for two or three months.</skinDescription>              
+	        <hairDescription>Windlings have very little body hair, but luxurious head hair.</hairDescription>        
+	        <eyeDescription>Eyes are in normal colours.</eyeDescription>        
+	        <miscDescription>Windlings have more severely pointed ears than elves, and dragonfly-like wings. Though windling wings are durable, they become heavy and fragile when wet, severely impairing the windling’s Flight ability. When flying with wet wings, the windling is considered Harried. Windling wings dry within 15 minutes of being in a dry place, or within 5 minutes of being in a warm place.</miscDescription>        
+	        <dex>11</dex>
+	        <str>4</str>
+	        <tou>8</tou>
+	        <per>11</per>        
+	        <wil>10</wil>
+	        <cha>12</cha>         
+	        <karmaModifier>6</karmaModifier>
+	        <karmaStep>5</karmaStep>        
+	        <averageHeight>0.18</averageHeight>
+	        <averageWeight>13</averageWeight>         
+	        <averageLifespan>170</averageLifespan>  
+	        <ageOfMaturity>30</ageOfMaturity>         
+	        <groundMovementRate>6</groundMovementRate>           
+	        <flyingMovementRate>16</flyingMovementRate>
+	        <racialAbilities>
+	            <ability>
+		            <type>Talent</type>            
+		            <name>Astral Sight</name>  
+		            <defaultUse>no</defaultUse>                                   
+		            <rank>0</rank>            
+		            <actionType>Simple</actionType>
+		            <duration>0</duration>
+		            <durationType>Rounds</durationType>
+		            <range>0</range>
+		            <rangeType>Yards</rangeType> 
+		            <stepAttribute>Per</stepAttribute> 
+		            <effectStep>0</effectStep>                       
+		            <effect>The adept sees into the astral plane to a distance equal to his Astral Sight Rank × 10 yards and for a number of rounds equal to his Astral Sight Rank. Examining magical items using Astral Sight this way does not provide any information about the item’s history or reveal any Test Knowledges.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>  
+	            </ability> 
+	            <ability>             
+		            <type>Racial Ability</type>           
+		            <name>Flight</name>      
+		            <defaultUse>no</defaultUse>                               
+		            <rank>0</rank>            
+		            <actionType>Movement</actionType>
+		            <duration>0</duration>
+		            <durationType>Activated/Deactivated</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                        
+		            <effect>Windlings can fly, but it is not their primary method of movement. Flying windlings tire quickly and usually limit themselves to short periods of flight. After 15 minutes of flying, a windling may suffer Strain. Every additional minute spent in flight requires a Toughness (5) Test. Failure means the windling takes 1 Strain. Each 5-minute period spent flying beyond the initial 15 minutes adds 2 to the Difficulty Number of the Toughness Test. Short interruptions do not reset the time spent flying, they only reduce it on a one-to-one basis.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>
+	            </ability>            
+                <ability>
+		            <type>Racial Ability</type>            
+		            <name>Increased Physical Defense</name>
+		            <defaultUse>no</defaultUse>                                     
+		            <rank>0</rank>            
+		            <actionType>NA</actionType>
+		            <duration>0</duration>
+		            <durationType>While light levels are reduced.</durationType>
+		            <range>0</range>
+		            <rangeType>Self</rangeType>  
+		            <stepAttribute>None</stepAttribute> 
+		            <effectStep>0</effectStep>                      
+		            <effect>Add 2 to the character's Physical Defense Rating. The natural mobility of windlings, combined with their small size, adds to their Physical Defense Rating.</effect>
+		            <strain>0</strain>
+		            <karma>no</karma>
+		            <languages></languages>
+	            </ability>            
+	        </racialAbilities> 
+	    </race>                       
+    </namegivers>                          
+</namegivers>

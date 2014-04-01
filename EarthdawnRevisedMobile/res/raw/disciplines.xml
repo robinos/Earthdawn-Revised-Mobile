@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<disciplines>   
+    <disciplines>
+        <discipline>
+	        <disciplineName>Air Sailor</disciplineName>        
+	        <disciplineDescription>Air Sailors are the swashbuckling brotherhood of the sky. Air Sailors never leave their fellows behind and embrace the idea of togetherness, working to protect and spread civilization, rather than preying upon it.</disciplineDescription>
+	        <halfMagic>The Air Sailor’s uses for Half-Magic include the maintenance, repair, and construction of airships; knowledge of airship designs; and recognition of different types of airships, commonly followed flight paths, and airship crew complements. Air Sailors gain access to the Navigation skill (p. 143) via Half-Magic while aboard airships. Working on an airship requires a high degree of athletic ability, so Air Sailors may make Half-Magic Tests to swing from rigging or avoid obstacles when moving around an airship.</halfMagic>
+	        <karmaRitual>To begin his Karma ritual, the Air Sailor sits alone in silent meditation under the open sky for several minutes, picturing in his mind’s eye his airship sailing through the clouds at the start of a long journey. The adept envisions an aerial journey he hopes to make one day, imagining scenes of this journey, including the risks and perils, and how his training and skills might help make the journey a safe one. The ritual is complete when, half an hour later, the imagined journey ends safely.</karmaRitual>
+	        <commonArtisanSkills>Rune Carving, Sail Embroidery</commonArtisanSkills>        
+	        <importantAttributes>Charisma, Dexterity</importantAttributes>                
+	        <disciplineTalents>
+            	<listByCircle>	            
+	            	<circle>1</circle> 
+	            	<abilityNames>           
+			            <string>Air Sailing</string>
+			            <string>Avoid Blow</string>
+			            <string>Climbing</string>
+			            <string>Karma Ritual</string>
+			            <string>Melee Weapons</string>
+		            </abilityNames>
+	        	</listByCircle>    
+            	<listByCircle>	            
+		            <circle>2</circle>      
+		            <abilityNames>      
+			            <string>Distract</string>
+			            <string>Durability 6/5</string>
+                    </abilityNames>		            
+            	</listByCircle>	            
+            	<listByCircle>	            
+		            <circle>3</circle>
+		            <abilityNames>            
+		            	<string>Empathic Sense</string>
+		            </abilityNames>
+            	</listByCircle>	            
+	            <listByCircle>
+		            <circle>4</circle> 
+		            <abilityNames>           
+		            	<string>Thread Weaving - Air Weaving</string>
+		            </abilityNames>
+	            </listByCircle>
+            	<listByCircle>	            
+		            <circle>5</circle> 
+		            <abilityNames>           
+		            	<string>Swing Attack</string>
+		            </abilityNames>
+            	</listByCircle>	            
+            	<listByCircle>	            
+		            <circle>6</circle>  
+		            <abilityNames>          
+		            	<string>Wound Balance</string>
+		            </abilityNames>
+            	</listByCircle>	            
+            	<listByCircle>	            
+		            <circle>7</circle>  
+		            <abilityNames>          
+		            	<string>Resist Taunt</string>
+		            </abilityNames>
+            	</listByCircle>	            
+            	<listByCircle>	            
+		            <circle>8</circle>
+		            <abilityNames>            
+		            	<string>Leadership</string>
+		            </abilityNames>
+            	</listByCircle>	            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	            <listByCircle>
+		            <circle>1</circle>
+		            <abilityNames>            
+			            <string>Navigation</string>
+			            <string>Parry</string>
+			            <string>Speak Language</string>
+			            <string>Throwing Weapons</string>
+			            <string>Unarmed Combat</string>
+		            </abilityNames>
+	            </listByCircle>
+	            <listByCircle>
+		            <circle>2</circle> 
+		            <abilityNames>           
+			            <string>Air Dance</string>
+			            <string>Great Leap</string>
+			            <string>Haggle</string>
+			            <string>Heartening Laugh</string>
+			            <string>Missile Weapons</string>
+			            <string>Read/Write Language</string>
+			            <string>Wind Catcher</string>
+		            </abilityNames>
+	            </listByCircle>
+	            <listByCircle>
+		            <circle>5</circle> 
+		            <abilityNames>           
+			            <string>Acrobatic Strike</string>
+			            <string>Disarm</string>
+			            <string>Etiquette</string>
+			            <string>Lasting Impression</string>
+			            <string>Lion Heart</string>
+			            <string>Riposte</string>
+			            <string>Tactics</string>
+			            <string>Taunt</string> 
+		            </abilityNames>
+	            </listByCircle>           
+	        </optionalTalents>        
+	        <abilities>
+	            <listByCircle>
+		            <circle>2</circle>  
+		            <abilityNames>          
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>
+	            </listByCircle>
+	            <listByCircle>
+		            <circle>4</circle>  
+		            <abilityNames>          
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>
+	            </listByCircle>
+            	<listByCircle>	            
+		            <circle>5</circle>
+		            <abilityNames>            
+		            	<string>Collaborate</string>
+		            </abilityNames>
+            	</listByCircle>	            
+            	<listByCircle>	            
+		            <circle>6</circle> 
+		            <abilityNames>           
+		            	<string>Karma: Charisma Only Tests</string>
+		            </abilityNames>
+	            </listByCircle>
+	            <listByCircle>
+		            <circle>7</circle>
+		            <abilityNames>            
+		            	<string>Karma: Action Tests Made When Aboard An Airship</string>
+                    </abilityNames>
+	            </listByCircle>
+	            <listByCircle>
+		            <circle>8</circle> 
+		            <abilityNames>           
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>
+	            </listByCircle>
+	        </abilities>                                                 
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Archer</disciplineName>        
+	        <disciplineDescription>The Archer learns the art of the bow and crossbow, and by extension, all types of ranged attacks. This Discipline stresses accuracy and, to a lesser extent, speed. Most Archers show greatly enhanced perceptive powers, often noticing things that others miss.</disciplineDescription>
+	        <halfMagic>Archers may use Half-Magic when caring for ranged weapons and to recognize different types of ranged weapons, ammunition, or their creators. Archers gain access to the Craft Weapon skill (p. 138) to make ranged weapons, as well as ammunition for those weapons. An Archer also often crafts his own arrows and bolts, personalizing them in some manner.</halfMagic>
+	        <karmaRitual>The Archer spends the first few minutes of the Karma ritual oiling and stringing his bow, then starts meditating, with the bow in front of him and all of his arrows fanned out beside him on the ground. At the end of the half-hour-long ritual, the Archer fires three arrows at a target, forming a rough triangle no more than a foot wide, then fires a fourth arrow into the center of the triangle. The ritual is complete as soon as the last arrow hits.</karmaRitual>        
+	        <commonArtisanSkills>Fletching, Wood Carving</commonArtisanSkills>        
+	        <importantAttributes>Dexterity, Perception</importantAttributes>        
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>		             		                       
+			            <string>Karma Ritual</string>
+			            <string>Missile Weapons</string>
+			            <string>Mystic Aim</string>
+			            <string>Throwing Weapons</string>
+			            <string>True Shot</string>
+		            </abilityNames>		            
+	        	</listByCircle> 	            
+	            <listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Direction Arrow</string>
+			            <string>Durability 6/5</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        	<listByCircle> 	            
+		            <circle>3</circle>
+		            <abilityNames>			                        
+			            <string>Anticipate Blow</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        	<listByCircle> 
+		            <circle>4</circle>   
+		            <abilityNames>			                     
+		            	<string>Thread Weaving - Arrow Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Stopping Aim</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Bank Shot</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Impressive Shot</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>Second Shot</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Avoid Blow</string>
+			            <string>Climbing</string>
+			            <string>Melee Weapons</string>
+			            <string>Silent Walk</string>
+			            <string>Tracking</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Detect Weapon</string>
+			            <string>First Impression</string>
+			            <string>Flame Arrow</string>
+			            <string>Great Leap</string>
+			            <string>Long Shot</string>
+			            <string>Speak Language</string>
+			            <string>Sprint</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>
+		            <abilityNames>			                        
+			            <string>Call Missile</string>
+			            <string>Conceal Object</string>
+			            <string>Creature Analysis</string>
+			            <string>Empathic Sense</string>
+			            <string>Evidence Analysis</string>
+			            <string>Heartening Laugh</string>
+			            <string>Lip Reading</string>
+			            <string>Steel Thought</string>
+		            </abilityNames>			              
+	        	</listByCircle> 		                      
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Arrow's Eye View</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Ranged Combat Damage Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Beastmaster</disciplineName>        
+	        <disciplineDescription>Beastmasters have an innate affinity for working with animals. Many Beastmasters feel uncomfortable in large cities or towns, and prefer to live in the wild, away from other people.</disciplineDescription>
+	        <halfMagic>Beastmasters may use Half-Magic when dealing with or caring for animals in ways beyond those described by their talents, including animal breeding, first aid, and husbandry. Beastmasters may use Half-Magic when recognizing different animals, animal tracks, and abnormal behavior among animals and creatures. They also gain access to the Wilderness Survival skill (p. 148) via Half-Magic. Note: An animal may be considered an Animal Companion if it holds a Loyal attitude towards the Beastmaster.</halfMagic>
+	        <karmaRitual>The Beastmaster walks off a large circle, at least twenty yards in diameter, around the area on which he last slept. Then he sits in the center of the circle and makes a silent, meditative call to the animals of the area. At the end of the halfhour-long ritual, an animal typical of the local wildlife approaches, but does not enter, the circle. The adept motions for the animal to enter the circle, thus completing the ritual. The animal then leaves the circle and departs.</karmaRitual>        
+	        <commonArtisanSkills>Body Painting, Wood Carving</commonArtisanSkills>        
+	        <importantAttributes>Charisma, Willpower</importantAttributes>        
+	        <disciplineTalents>
+	            <listByCircle> 
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Animal Bond</string>
+			            <string>Claw shape</string>
+			            <string>Creature Analysis</string>
+			            <string>Karma Ritual</string>
+			            <string>Unarmed Combat</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Dominate Beast</string>
+			            <string>Durability 7/6</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>3</circle>  
+		            <abilityNames>			                      
+		            	<string>Animal Training</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>4</circle> 
+		            <abilityNames>			                       
+		            	<string>Thread Weaving - Beast Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Heal Animal Companion</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Animal Talk</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Animal Possession</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>Frenzy</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Avoid Blow</string>
+			            <string>Climbing</string>
+			            <string>Sense Danger</string>
+			            <string>Tracking</string>
+			            <string>Wilderness Survival</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>2</circle>    
+		            <abilityNames>			                    
+			            <string>Acrobatic Strike</string>
+			            <string>Borrow Sense</string>
+			            <string>Frighten Animals</string>
+			            <string>Great Leap</string>
+			            <string>Haggle</string>
+			            <string>Silent Walk</string>
+			            <string>Sprint</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+			            <string>Animal Companion Durability 6/5</string>
+			            <string>Blood Share</string>
+			            <string>Call Animal Companion</string>
+			            <string>Empathic Command</string>
+			            <string>Lion Heart</string>
+			            <string>Poison Resistance</string>
+			            <string>Tiger Spring</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                      
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Charisma Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Arrow's Eye View</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Action Tests Made By Your Animal Companion</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Cavalryman</disciplineName>        
+	        <disciplineDescription>Members of the Cavalryman Discipline are fierce, mounted warriors. They train with their mounts and form a close empathic bond with them. In fact, a Cavalryman respects his mount more than other Namegivers, with the possible exception of other Cavalrymen. This Discipline emphasizes motion and empathy for one’s mount.</disciplineDescription>
+	        <halfMagic>Cavalrymen may use Half-Magic for knowledge of different types of mounts used by the Namegiver races, upkeep of riding gear, animal breeding and first aid, and knowledge of significant cavalry units in Barsaive.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Cavalryman plants a target in the ground, then rides his mount several minutes distance away. First blindfolding himself, he directs his mount to return to the target. Once he closes to about 100 yards, which takes him half an hour, the Cavalryman uses the almost psychic connection with his mount, and whatever other empathic talents he possesses, to urge his mount to charge the target. Still blindfolded, the Cavalryman strikes the target with one of his weapons. He then removes the blindfold to end the ritual.</karmaRitual>        
+	        <commonArtisanSkills>Body Painting, Braiding</commonArtisanSkills>        
+	        <importantAttributes>Charisma, Dexterity</importantAttributes>        
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>            
+		            <abilityNames>			            
+			            <string>Animal Bond</string>
+			            <string>Charge</string>
+			            <string>Karma Ritual</string>
+			            <string>Melee Weapons</string>
+			            <string>Trick Riding</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Durability 7/6</string>
+			            <string>Empathic Command</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>3</circle> 
+		            <abilityNames>			                       
+		            	<string>Sure Mount</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Thread Weaving - Rider Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+		            	<string>Wheeling Attack</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Armor Mount</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 	        	
+		            <circle>7</circle>  
+		            <abilityNames>			                      
+		            	<string>Wheeling Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle> 
+		            <abilityNames>			                       
+		            	<string>Double-Charge</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Animal Training</string>            
+			            <string>Avoid Blow</string>
+			            <string>First Impression</string>
+			            <string>Haggle</string>
+			            <string>Unarmed Combat</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+			            <string>Blood Share</string>
+			            <string>Creature Analysis</string>
+			            <string>Dominate Beast</string>
+			            <string>Speak Language</string>
+			            <string>Tactics</string>
+			            <string>Tracking</string>
+			            <string>Wilderness Survival</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>      
+		            <abilityNames>			                  
+			            <string>Fearsome Charge</string>
+			            <string>Frighten Animals</string>
+			            <string>Heal Animal Companion</string>
+			            <string>Heartening Laugh</string>
+			            <string>Leadership</string>
+			            <string>Mount Attack</string>
+			            <string>Mount Durability 6/5</string>
+			            <string>Spirit Mount</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                       
+	        </optionalTalents>        
+	        <abilities>
+	            <listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Charisma Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+		            	<string>Masterful Horseman</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>    
+		            <abilityNames>			                    
+		            	<string>Karma: Mount's Attack And Damage Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Elementalist</disciplineName>        
+	        <disciplineDescription>An Elementalist is a spellcaster who focuses on learning about, and gaining power over, the five magical elements: air, earth, fire, water, and wood.</disciplineDescription>
+	        <halfMagic>Elementalists use Half-Magic for knowledge of nature, the elements, uses of elemental magic, and other magical rituals. Elementalists may make Perception-based Half-Magic Tests to locate and gather True Elements. The Elementalist may make a Perception-based Half-Magic Test to detect the presence of elemental spirits within 30 yards. The Detection Difficulty for sensing an elemental spirit is the spirit’s Spell Defense. If the test succeeds, the Elementalist can sense the presence of the elemental spirit and can use spells, or talents such as Elemental Tongues and Elemental Hold, to communicate and interact with it.  The Game Master may choose to make this Half-Magic Test on behalf of an Elementalist character at any time, as this innate sense is always active.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Elementalist first draws a triangle on the ground. While sitting in the triangle, the Elementalist boils a pot of water, singing to the fire all the time to encourage its heat. Then the Elementalist extinguishes the fire and adds earth to the water, turning it into hot mud. When cool enough, the Elementalist covers his face with the mud like war paint, then sings to the wind, calling a small breeze, and as the wind dries the mud over the next half hour, much of it cracks and blows away, leaving behind a series of intricate, swirling patterns. The Karma ritual is then complete.</karmaRitual>        
+	        <commonArtisanSkills>Robe Embroidery, Sculpting</commonArtisanSkills>        
+	        <importantAttributes>Perception, Willpower</importantAttributes>        
+	        <disciplineTalents>
+	            <listByCircle> 
+		            <circle>1</circle> 
+		            <abilityNames>			                       
+			            <string>Air Speaking</string>
+			            <string>Karma Ritual</string>
+			            <string>Read/Write Magic</string>            
+			            <string>Spellcasting</string>
+			            <string>Spell Matrix</string>
+			            <string>Thread Weaving - Elementalism</string>
+		            </abilityNames>			              	                      
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Durability 4/3</string>
+			            <string>Fire Heal</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>  
+		            <abilityNames>			                      
+		            	<string>Elemental Tongues</string> 
+		            </abilityNames>			                       
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Elemental Hold</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+		            	<string>Summon - Elemental Spirits</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>            
+		            <abilityNames>			            
+		            	<string>Cold Purify</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>            
+		            <abilityNames>			            
+		            	<string>Earth Skin</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>   
+		            <abilityNames>			                     
+		            	<string>Temperature</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Arcane Mutterings</string>            
+			            <string>Haggle</string>
+			            <string>Read/Write Language</string>
+			            <string>Speak Language</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+			            <string>Astral Sight</string>
+			            <string>Item History</string>
+			            <string>Parry</string>
+			            <string>Spell Matrix</string>
+			            <string>Spell Matrix</string>
+			            <string>Tracking</string>
+			            <string>Wind Catcher</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+			            <string>Detect Trap</string>
+			            <string>Enhanced Matrix</string>
+			            <string>Enhanced Matrix</string>
+			            <string>Gliding Stride</string>
+			            <string>Spot Armor Flaw</string>
+			            <string>Steel Thought</string>
+			            <string>Willforce</string>
+			            <string>Wood Skin</string>
+		            </abilityNames>			                   
+	        	</listByCircle> 		                 
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>        
+		            <abilityNames>			                
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Fire And Ice</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Spell Effect Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>
+	        <spells>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+		            	<string>Perception step points to spend on first and second circle spells. (2pts per second circle spell)</string>
+		            </abilityNames>			            
+	        	</listByCircle>        
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>A Second Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>    
+		            <abilityNames>			                    
+		            	<string>A Third Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>A Fourth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+		            	<string>A Fifth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </spells>                                                                                  
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Illusionist</disciplineName>        
+	        <disciplineDescription>Illusionists cast spells that work through deception. However, some Illusionism spells do have real effects; Illusionists learned long ago that if everything they did was an illusion, people quickly caught on and their magic became less effective. Now they balance real magic, illusions, trickery, and sleight of hand.</disciplineDescription>
+	        <halfMagic>Illusionists make Half-Magic Tests to recognize different types of magic use, as well as specific uses of illusion magic. They also make Half- Magic Tests when attempting to perceive the “truth” of a given situation. Illusionists may also make Half- Magic Tests when attempting to disbelieve illusions cast by others (see Illusions, p. 191).</halfMagic>
+	        <karmaRitual>Illusionists do not use the same ritual each time they regain Karma. Their Karma ritual does require them to incorporate certain elements every time, however: showy spells, tricks or snappy banter, and an assistant. Other than that, the Illusionist makes up his own Karma ritual, incorporating these elements into a half-hour show. The Illusionist must do his best during this time to convince his assistant that the ritual is very serious and must conform to a precise formula.</karmaRitual>        
+	        <commonArtisanSkills>Acting, Robe Embroidery</commonArtisanSkills>        
+	        <importantAttributes>Perception, Willpower</importantAttributes>        
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Karma Ritual</string>
+			            <string>Read/Write Magic</string> 
+			            <string>Speak Language</string>                       
+			            <string>Spellcasting</string>
+			            <string>Spell Matrix</string>
+			            <string>Thread Weaving - Illusionism</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+		            	<string>Durability 4/3</string>
+		            	<string>Disguise Self</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>
+		            <abilityNames>			                        
+		            	<string>Dead Fall</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>False Sight</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>True Sight</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Engaging Banter</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Fast Hand</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>Power Mask</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			                        
+			            <string>Astral Sight</string>            
+			            <string>First Impression</string>
+			            <string>Read/Write Language</string>
+			            <string>Silent Walk</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>    
+		            <abilityNames>			                    
+			            <string>Arcane Mutterings</string>
+			            <string>Frighten</string>
+			            <string>Haggle</string>
+			            <string>Mimic Voice</string>            
+			            <string>Spell Matrix</string>
+			            <string>Spell Matrix</string>
+			            <string>Winning Smile</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+			            <string>Enhanced Matrix</string>
+			            <string>Enhanced Matrix</string>
+			            <string>Graceful Exit</string>
+			            <string>Hypnotize</string>
+			            <string>Resist Taunt</string>
+			            <string>Slough Blame</string>
+			            <string>Steel Thought</string> 
+			            <string>Willforce</string>
+		            </abilityNames>			              
+	        	</listByCircle> 		                                 
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>         
+		            <abilityNames>			               
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Glamour</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>  
+		            <abilityNames>			                      
+		            	<string>Karma: Spell Effect Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>
+	        <spells>
+	        	<listByCircle> 	            
+		            <circle>1</circle>         
+		            <abilityNames>			               
+		            	<string>Perception step points to spend on first and second circle spells. (2pts per second circle spell)</string>
+		            </abilityNames>	
+	        	</listByCircle>        
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>A Second Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle> 
+		            <abilityNames>			                       
+		            	<string>A Third Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>A Fourth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>A Fifth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </spells>                                                                                  
+	    </discipline>
+	    <discipline>
+	        <disciplineName>Nethermancer</disciplineName>        
+	        <disciplineDescription>Nethermancers are spellcasters who specialize in the magic of the netherworlds. Their interests focus on other planes and the spirits and creatures that inhabit those planes. Most people consider Nethermancers to be a little “off ” in an eerie sort of way, and consequently most followers of this Discipline are unlikely to win many popularity contests.</disciplineDescription>
+	        <halfMagic>Nethermancers use Half-Magic to recognize uses of nethermantic magic, different types of undead and spirits, and magical rituals—especially blood magic rituals. Nethermancers may also use Half-Magic to understand the effects of different blood charms, as these are linked with Nethermancy. Nethermancers may make Perception-based Half-Magic Tests to produce blood charms (see the Magic: A Manual of Mystic Secrets sourcebook). A Nethermancer may use Half-Magic to sense the presence of spirits within 30 yards of his location. The Detection Difficulty for sensing a spirit is the spirit’s Spell Defense (determined by the GM). If the test succeeds, the Nethermancer can sense the presence of the spirit can use spells, or talents such as Spirit Hold or Spirit Talk, to communicate and interact with the spirit. The Game Master may choose to make this Half-Magic Test on behalf of a Nethermancer character at any time, as this innate sense is always active.</halfMagic>
+	        <karmaRitual>Nethermantic Karma rituals are quiet affairs in which the Nethermancer drinks tea with a spirit servant or other otherworldly creature and talks of life beyond this world. The ritual ends after a half hour has passed with the Nethermancer draining the last drop from his final cup of tea.</karmaRitual>        
+	        <commonArtisanSkills>Bone Carving, Robe Embroidery</commonArtisanSkills>        
+	        <importantAttributes>Perception, Willpower</importantAttributes>        
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle> 
+		            <abilityNames>			                       
+			            <string>Astral Sight</string>
+			            <string>Karma Ritual</string>
+			            <string>Read/Write Magic</string>            
+			            <string>Spellcasting</string>
+			            <string>Spell Matrix</string>
+			            <string>Thread Weaving - Nethermancy</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Durability 4/3</string>
+			            <string>Frighten</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>     
+		            <abilityNames>			                   
+		            	<string>Spirit Talk</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>  
+		            <abilityNames>			                      
+		            	<string>Spirit Hold</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>       
+		            <abilityNames>			                 
+		            	<string>Summon - Ally Spirits</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>       
+		            <abilityNames>			                 
+		            	<string>Lifesight</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>    
+		            <abilityNames>			                    
+		            	<string>Spirit Dodge</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle> 
+		            <abilityNames>			                       
+		            	<string>Orbiting Spy</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>      
+		            <abilityNames>			                  
+			            <string>Arcane Mutterings</string>            
+			            <string>Read/Write Language</string>
+			            <string>Silent Walk</string>            
+			            <string>Speak Language</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>           
+		            <abilityNames>				             
+			            <string>Animal Possession</string>
+			            <string>Blood Share</string>
+			            <string>Creature Analysis</string>
+			            <string>Dominate Beast</string>
+			            <string>Frighten Animals</string>            
+			            <string>Spell Matrix</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>    
+		            <abilityNames>			                    
+			            <string>Abate Curse</string>
+			            <string>Elemental Tongues</string>            
+			            <string>Enhanced Matrix</string>
+			            <string>Enhanced Matrix</string>
+			            <string>Item History</string>
+			            <string>Lion Heart</string>
+			            <string>Steel Thought</string>            
+			            <string>Willforce</string>
+		            </abilityNames>			               
+	        	</listByCircle> 		                     
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Decay and Renewal</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>   
+		            <abilityNames>			                     
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Spell Effect Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>
+	        <spells>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+		            	<string>Perception step points to spend on first and second circle spells. (2pts per second circle spell)</string>
+		            </abilityNames>			            
+	        	</listByCircle>         
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>A Second Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>
+		            <abilityNames>			                        
+		            	<string>A Third Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>    
+		            <abilityNames>			                    
+		            	<string>A Fourth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle>  
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>A Fifth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </spells>                                                                                  
+	    </discipline>  
+	    <discipline>
+	        <disciplineName>Scout</disciplineName>        
+	        <disciplineDescription>Scouts are the vanguard, the tracker, and the brave rangers who go where others cannot. Scouts are masters of becoming one with their environment—be that the wildest primeval forest or the heart of the largest city.</disciplineDescription>
+	        <halfMagic>A Scout may use Half-Magic to recognize tracks and trails left by different types of animals and Namegivers in wilderness or urban environments. They gain access to the Search (p. 145), Detect Trap (p. 139), Navigation (p. 143), and Mapmaking (p. 142) skills via Half-Magic.</halfMagic>
+	        <karmaRitual>To begin his Karma ritual, the Scout allows his companions to lead him blindfolded deep into the forest, about ten minutes walk from his starting point. The Scout meditates for ten minutes as he visualizes the route back to where he began, then makes the journey, still blindfolded, to his starting point. Removing the blindfold, the half-hour-long ritual is complete.</karmaRitual>
+	        <commonArtisanSkills>Rune Carving, Wood Carving</commonArtisanSkills>        
+	        <importantAttributes>Dexterity, Perception</importantAttributes>                
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>          
+		            <abilityNames>			              
+			            <string>Climbing</string>
+			            <string>Karma Ritual</string>
+			            <string>Search</string>
+			            <string>Tracking</string>            
+			            <string>Wilderness Survival</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        	<listByCircle> 
+		            <circle>2</circle>    
+		            <abilityNames>			                    
+			            <string>Durability 6/5</string>
+			            <string>Speak Language</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>   
+		            <abilityNames>			                     
+		            	<string>Navigation</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>      
+		            <abilityNames>			                  
+		            	<string>Thread Weaving - Scout Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+		            	<string>Evidence Analysis</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Astral Sight</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>     
+		            <abilityNames>			                   
+		            	<string>Empathic Sense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>    
+		            <abilityNames>			                    
+		            	<string>Safe Path</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>  
+		            <abilityNames>			                      
+			            <string>Avoid Blow</string>
+			            <string>Creature Analysis</string>
+			            <string>Melee Weapons</string>
+			            <string>Missile Weapons</string>
+			            <string>Silent Walk</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>       
+		            <abilityNames>			                 
+		            	<string>Anticipate Blow</string>
+			            <string>Detect Trap</string>
+			            <string>Detect Weapon</string>
+			            <string>Disguise Self</string>
+			            <string>Great Leap</string>
+			            <string>Read/Write Language</string>
+			            <string>Sprint</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>       
+		            <abilityNames>			                 
+			            <string>Conceal Object</string>
+			            <string>Directional Arrow</string>
+			            <string>Disarm Trap</string>
+			            <string>Lock Picking</string>
+			            <string>Maneuver</string>
+			            <string>Sense Danger</string>
+			            <string>Trap Initiative</string>
+			            <string>Trick Riding</string>
+		            </abilityNames>			               
+	        	</listByCircle> 		                     
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>  
+		            <abilityNames>			                      
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+		            	<string>Enhanced Senses</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle> 
+		            <abilityNames>			                       
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>  
+		            <abilityNames>			                      
+		            	<string>Karma: Action Tests Of Others To Avoid Environmental Hazards</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline>   
+	    <discipline>
+	        <disciplineName>Sky Raider</disciplineName>        
+	        <disciplineDescription>Sky Raiders are renowned as ruthless pirates, forming a potent force in Barsaive. Their drakkars raid all over the province, most frequently targeting Therans or their vassals. Sky Raiders are proud and show great loyalty to other Sky Raiders—unless that raider belongs to an enemy clan or moot!</disciplineDescription>
+	        <halfMagic>Sky Raiders use Half-Magic for tasks related to the upkeep, repair, and building of drakkarsized airships, knowledge of different airship designs and recognition of different airship types, knowledge of commonly followed flight paths, and identification of crew complements of different sizes according to types of airships. They gain access to the Climbing (p. 137) and Navigation (p. 143) skills via Half-Magic while aboard an airship.</halfMagic>
+	        <karmaRitual>To start his Karma ritual, the Sky Raider spends several minutes in silent meditation beneath the open sky. Then he begins to strike his shield with a weapon, slowly at first, perhaps two beats a minute. The striking accelerates until the Sky Raider is beating his shield at a furious rate. The drumming continues for a half hour, then the Sky Raider stops, continuing to meditate while his shield still resonates from the furious bashing. The Karma ritual ends as soon as the sound from the last drumbeat dies away.</karmaRitual>
+	        <commonArtisanSkills>Panel Painting, Wood Carving</commonArtisanSkills>        
+	        <importantAttributes>Dexterity, Toughness</importantAttributes>                
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>    
+		            <abilityNames>			                    
+			            <string>Air Sailing</string>
+			            <string>Battle Shout</string>
+			            <string>Fireblood</string>                          
+			            <string>Karma Ritual</string>          
+			            <string>Melee Weapon</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Durability 8/6</string>
+			            <string>Great Leap</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>     
+		            <abilityNames>			                   
+		            	<string>Shield Charge</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>         
+		            <abilityNames>			               
+		            	<string>Thread Weaving - Sky Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+		            	<string>Battle Bellow</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>     
+		            <abilityNames>			                   
+		            	<string>Steely Stare</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Momentum Attack</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>    
+		            <abilityNames>			                    
+		            	<string>Down Strike</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+			            <string>Climbing</string>
+			            <string>Navigation</string>
+			            <string>Parry</string>
+			            <string>Throwing Weapons</string>
+			            <string>Unarmed Combat</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+			            <string>Air Speaking</string>
+			            <string>Detect Weapon</string>
+			            <string>Missile Weapons</string>
+			            <string>Swift Kick</string>
+			            <string>Wilderness Survival</string>
+			            <string>Wind Catcher</string>
+			            <string>Wound Balance</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>    
+		            <abilityNames>			                    
+			            <string>Blood Share</string>
+			            <string>Cold Purify</string>
+			            <string>Lasting Impression</string>
+			            <string>Leadership</string>
+			            <string>Lion Heart</string>
+			            <string>Surprise Strike</string>
+			            <string>Tactics</string>
+			            <string>Tiger Spring</string>
+		            </abilityNames>			              
+	        	</listByCircle> 		                      
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>  
+		            <abilityNames>			                      
+		            	<string>Karma: Toughness Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>   
+		            <abilityNames>			                     
+		            	<string>Strike Without Warning</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>     
+		            <abilityNames>			                   
+		            	<string>Karma: Melee Weapon Damage Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline>  
+	    <discipline>
+	        <disciplineName>Swordmaster</disciplineName>        
+	        <disciplineDescription>Swordmasters are fighters who learn the value of a well-handled weapon, training to demonstrate quickness, flash, and panache in melee. They are known for swagger and exaggeration.</disciplineDescription>
+	        <halfMagic>Swordmasters use Half-Magic to care for their weapons, know legendary weapon history, and recognize different melee weapons. Swordmasters may also use Half-Magic to identify another Swordmaster’s fighting techniques, including which prominent Swordmasters may have shaped the individual’s style.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Swordmaster fences against imaginary opponents. He fights the first few duels as silent, simple exercises. Over the next half hour, the Swordmaster provides sound effects, performs acrobatic moves, and even engages in swashbuckling dialog. The ritual is complete when the last foe falls.</karmaRitual>
+	        <commonArtisanSkills>Acting, Dancing</commonArtisanSkills>        
+	        <importantAttributes>Charisma, Dexterity</importantAttributes>                
+	        <disciplineTalents>  
+	        	<listByCircle> 	                                   
+		            <circle>1</circle>     
+		            <abilityNames>			                   
+			            <string>Karma Ritual</string>
+			            <string>Maneuver</string>                      
+			            <string>Melee Weapon</string>
+			            <string>Parry</string>
+			            <string>Taunt</string>
+		            </abilityNames>			                         
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>    
+		            <abilityNames>			                    
+			            <string>Durability 7/6</string>
+			            <string>Heartening Laugh</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>       
+		            <abilityNames>			                 
+		            	<string>Riposte</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>    
+		            <abilityNames>	        
+		            	<string>Thread Weaving - Weapon Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>   
+		            <abilityNames>			                     
+		            	<string>Second Weapon</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle> 
+		            <abilityNames>			                       
+		            	<string>Disarm</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>     
+		            <abilityNames>			                   
+		            	<string>Resist Taunt</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>Second Attack</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>       
+		            <abilityNames>			                 
+			            <string>Acrobatic Strike</string>
+			            <string>Avoid Blow</string>
+			            <string>First Impression</string>
+			            <string>Speak Language</string>
+			            <string>Wound Balance</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Anticipate Blow</string>
+			            <string>Detect Weapon</string>
+			            <string>Haggle</string>
+			            <string>Sprint</string>
+			            <string>Throwing Weapons</string>
+			            <string>Unarmed Combat</string>
+			            <string>Winning Smile</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>     
+		            <abilityNames>			                   
+			            <string>Conceal Object</string>
+			            <string>Etiquette</string>
+			            <string>Graceful Exit</string>
+			            <string>Lasting Impression</string>
+			            <string>Lion Heart</string>
+			            <string>Surprise Strike</string>
+			            <string>Swift Kick</string>
+			            <string>Tiger Spring</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                       
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Social Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>        
+		            <abilityNames>			                
+		            	<string>Flourish</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>         
+		            <abilityNames>			               
+		            	<string>Karma: Charisma Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Melee Weapon Damage Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>  
+		            <abilityNames>			                      
+		            	<string>+1 Social Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline>  
+	    <discipline>
+	        <disciplineName>Thief</disciplineName>        
+	        <disciplineDescription>Thieves learn early to be self-reliant and how to steal. They draw power from their self-confidence and the knowledge that they depend only on themselves. The abundance of rumors governing Thief guilds means such groups may, in fact, exist, but proof or disproof of their reality remains a secret.</disciplineDescription>
+	        <halfMagic>Thieves may use Half-Magic to build or bypass security measures intended to prevent theft, and to recognize different types of locking mechanisms. Thieves gain the Search (p. 145), Detect Trap (p. 139), and Disarm Trap (p. 139) skills via Half-Magic.</halfMagic>
+	        <karmaRitual>To start his Karma ritual, the Thief sits by himself in a darkened area and concentrates for half an hour on the knowledge that he is alone in the world and can rely, first and foremost, only on himself. With this firmly established in both heart and mind, he sets out to use one of his Discipline talents. The ritual ends as soon as the adept successfully uses the talent.</karmaRitual>
+	        <commonArtisanSkills>Acting, Poetry</commonArtisanSkills>        
+	        <importantAttributes>Dexterity, Perception</importantAttributes>                
+	        <disciplineTalents>    
+	        	<listByCircle> 	                                 
+		            <circle>1</circle>         
+		            <abilityNames>			               
+			            <string>Karma Ritual</string>
+			            <string>Lock Picking</string>                      
+			            <string>Pick Pockets</string>
+			            <string>Silent Walk</string>
+			            <string>Trap Initiative</string>
+		            </abilityNames>			                         
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Detect Trap</string>            
+			            <string>Durability 6/5</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>   
+		            <abilityNames>			                     
+		            	<string>Disarm Trap</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>     
+		            <abilityNames>			                   
+		            	<string>Thread Weaving - Thief Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Sense Poison</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Slough Blame</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>   
+		            <abilityNames>			                     
+		            	<string>Fast Hand</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>True Sight</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+			            <string>Avoid Blow</string>
+			            <string>Climbing</string>            
+			            <string>Melee Weapons</string>
+			            <string>Search</string>
+			            <string>Throwing Weapons</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>     
+		            <abilityNames>			                   
+			            <string>Detect Weapon</string>
+			            <string>Disguise Self</string>            
+			            <string>First Impression</string>
+			            <string>Great Leap</string>
+			            <string>Haggle</string>
+			            <string>Sprint</string>
+			            <string>Surprise Strike</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+			            <string>Call Missile</string>
+			            <string>Conceal Object</string>
+			            <string>Dead Fall</string>
+			            <string>Direction Sense</string>
+			            <string>Engaging Banter</string>
+			            <string>Evaluate</string>
+			            <string>Graceful Exit</string>
+			            <string>Mimic Voice</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                       
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle> 
+		            <abilityNames>			                       
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>            
+		            <abilityNames>			            
+		            	<string>Thieves' Tongue</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Action Tests Of Others For Stealth</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline> 
+	    <discipline>
+	        <disciplineName>Troubadour</disciplineName>        
+	        <disciplineDescription>Troubadours serve as entertainers, storytellers, actors, and songsmiths. As such, they represent the closest thing to a historian or scholar that common people usually see.</disciplineDescription>
+	        <halfMagic>Troubadours may make Half-Magic Tests whenever they perform for audiences, and also for knowledge of legends, myths, and folklore of their home province’s lands and people.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Troubadour must perform a ballad or skit before an audience of at least two others. He can juggle, joke, tell tall tales, or sing serious legends. Half an hour after he starts, the Troubadour finishes the performance with a short story, ending the tale with the phrase, “And there it ends, for such is the truth of the thing.” This completes the ritual.</karmaRitual>
+	        <commonArtisanSkills>Musician, Storytelling</commonArtisanSkills>        
+	        <importantAttributes>Charisma, Perception</importantAttributes>                
+	        <disciplineTalents> 
+	        	<listByCircle> 	                           
+		            <circle>1</circle> 
+		            <abilityNames>			                                
+			            <string>First Impression</string>                      
+			            <string>Impress</string>
+			            <string>Item History</string>            
+			            <string>Karma Ritual</string>
+			            <string>Mimic Voice</string>
+		            </abilityNames>			                         
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Disguise Self</string>            
+			            <string>Durability 6/5</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>   
+		            <abilityNames>	         
+		            	<string>Empathic Sense</string>
+		            </abilityNames>			            	
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>         
+		            <abilityNames>			               
+		            	<string>Thread Weaving - Story Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle> 
+		            <abilityNames>			                       
+		            	<string>Inspire Others</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle> 
+		            <abilityNames>			                       
+		            	<string>Resist Taunt</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle> 
+		            <abilityNames>			                       
+		            	<string>Leadership</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>   
+		            <abilityNames>			                     
+		            	<string>Lion Heart</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>    
+		            <abilityNames>			                    
+			            <string>Emotion Song</string>
+			            <string>Haggle</string>            
+			            <string>Melee Weapons</string>
+			            <string>Read/Write Language</string>
+			            <string>Speak Language</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>            
+		            <abilityNames>			            
+			            <string>Avoid Blow</string>
+			            <string>Etiquette</string>            
+			            <string>Heartening Laugh</string>
+			            <string>Lasting Impression</string>
+			            <string>Taunt</string>
+			            <string>Throwing Weapons</string>
+			            <string>Winning Smile</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>   
+		            <abilityNames>			                     
+			            <string>Blade Juggle</string>
+			            <string>Book Memory</string>
+			            <string>Diplomacy</string>
+			            <string>Engaging Banter</string>
+			            <string>Graceful Exit</string>            
+			            <string>Performance</string>
+			            <string>Research</string>
+			            <string>Slough Blame</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                       
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>   
+		            <abilityNames>			                     
+		            	<string>+1 Social Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Charisma Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>            
+		            <abilityNames>			            
+		            	<string>One Last Word</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>   
+		            <abilityNames>			                     
+		            	<string>Karma: Action Tests Of Others For Social Actions</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Social Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline>     
+	    <discipline>
+	        <disciplineName>Warrior</disciplineName>        
+	        <disciplineDescription>Warriors are fighters and soldiers trained to use magic to enhance their combat techniques. They often form groups with other Warriors, living in seclusion in self-sufficient settlements similar to monastic orders.</disciplineDescription>
+	        <halfMagic>Warriors can use Half-Magic when caring for or repairing their weapons and armor, knowledge of military tactics and strategy (recognizing the safest approach to a target when planning a battle, for instance) and to recall events of Barsaive’s military history. They use Half-Magic to recognize warrior orders, famous ancient Warriors, and ancient arms and armor. Warriors gain access to the Tactics skill (p. 147) via Half-Magic.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, a Warrior sits cross-legged, holding a weapon above his knees. After a few minutes of meditation he levitates, as if using the Air Dance talent; the ritual use of this talent does not cause him any Strain damage. The Warrior then performs a series of four exercises: the earth defense, the water defense, the fire attack, and the air attack. The ritual ends half an hour later, as soon as the Warrior completes the final move of the air attack.</karmaRitual>
+	        <commonArtisanSkills>Sculpting, Rune Carving</commonArtisanSkills>        
+	        <importantAttributes>Dexterity, Strength</importantAttributes>                
+	        <disciplineTalents>     
+	        	<listByCircle> 	                                
+		            <circle>1</circle>    
+		            <abilityNames>			                    
+			            <string>Avoid Blow</string>              
+			            <string>Karma Ritual</string>                    
+			            <string>Melee Weapons</string>
+			            <string>Unarmed Combat</string>            
+			            <string>Wood Skin</string>
+		            </abilityNames>			                         
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Anticipate Blow</string>            
+			            <string>Durability 9/7</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>        
+		            <abilityNames>			                
+		            	<string>Wound Balance</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>     
+		            <abilityNames>			                   
+		            	<string>Thread Weaving - War Weaving</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>  
+		            <abilityNames>			                      
+		            	<string>Temper Self</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>   
+		            <abilityNames>			                     
+		            	<string>Life Check</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>           
+		            <abilityNames>			             
+		            	<string>Crushing Blow</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>    
+		            <abilityNames>			                    
+		            	<string>Second Attack</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+			            <string>Acrobatic Strike</string>
+			            <string>Air Dance</string>            
+			            <string>Climbing</string>
+			            <string>Maneuver</string>
+			            <string>Parry</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Detect Weapon</string>
+			            <string>Fireblood</string>            
+			            <string>Heartening Laugh</string>
+			            <string>Missile Weapons</string>
+			            <string>Swift Kick</string>
+			            <string>Throwing Weapons</string>
+			            <string>Tiger Spring</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>       
+		            <abilityNames>			                 
+			            <string>Cobra Strike</string>
+			            <string>Disarm</string>
+			            <string>Leadership</string>
+			            <string>Lion Heart</string>
+			            <string>Second Weapon</string>            
+			            <string>Shield Charge</string>
+			            <string>Steely Stare</string>
+			            <string>Tactics</string>
+		            </abilityNames>			             
+	        	</listByCircle> 		                       
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>  
+		            <abilityNames>			                      
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Strength Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>      
+		            <abilityNames>			                  
+		            	<string>Battle Rites</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>      
+		            <abilityNames>			                  
+		            	<string>Karma: Dexterity Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>       
+		            <abilityNames>			                 
+		            	<string>Karma: Close Combat Damage Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>
+		            <abilityNames>			                        
+		            	<string>+1 Physical Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline>        
+	    <discipline>
+	        <disciplineName>Weaponsmith</disciplineName>        
+	        <disciplineDescription>A Weaponsmith trains to gain an iron will and a highly critical eye. Weaponsmiths help identify and create legendary weapons. To this end, the Discipline borrows abilities from both Elementalism and Wizardry. Nearly every community places great value on their Weaponsmiths.</disciplineDescription>
+	        <halfMagic>Weaponsmiths may use Half-Magic when caring for weapons and armor and to recognize different types of weapons and armor used or worn by different Namegiver races or their creators. They may also make Half-Magic Tests in place of Craftsman Tests when making or repairing forged metal items, such as horse shoes, barrel stays, and the like. Weaponsmiths gain access to the Craft Armor (p. 137) and Craft Weapon (p. 138) skills via Half-Magic. From Fifth Circle on, Weaponsmiths can create living armor with this ability.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Weaponsmith heats a thin strip of metal in a hot fire or forge. Over the next half hour, he fashions the metal into a blade, arrowhead, or spear-tip, but instead of forging an effective item, he intentionally tempers the metal too soon, making it brittle. The Weaponsmith then shatters the defective piece of metalwork. The ritual ends the instant the item breaks.</karmaRitual>
+	        <commonArtisanSkills>Rune Carving, Wood Carving</commonArtisanSkills>        
+	        <importantAttributes>Perception, Willpower</importantAttributes>                
+	        <disciplineTalents>
+	        	<listByCircle> 	                                     
+		            <circle>1</circle> 
+		            <abilityNames>			                       
+			            <string>Evaluate</string>              
+			            <string>Forge Weapon</string>
+			            <string>Haggle</string>            
+			            <string>Karma Ritual</string>                                
+			            <string>Steel Thought</string>
+		            </abilityNames>			            
+	        	</listByCircle> 	                         
+	        	<listByCircle>            
+		            <circle>2</circle>
+		            <abilityNames>			                        
+			            <string>Durability 6/5</string> 
+			            <string>Item History</string>
+		            </abilityNames>			                                   
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>   
+		            <abilityNames>			                     
+		            	<string>Abate Curse</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Thread Weaving - Thread Smithing</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Temper Self</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>
+		            <abilityNames>			                        
+		            	<string>Lion Heart</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>     
+		            <abilityNames>			                   
+		            	<string>Spot Armor Flaw</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>   
+		            <abilityNames>			                     
+		            	<string>Forge Armor</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                   
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>          
+		            <abilityNames>			              
+			            <string>Acrobatic Strike</string>
+			            <string>Air Dance</string>            
+			            <string>Climbing</string>
+			            <string>Maneuver</string>
+			            <string>Parry</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>          
+		            <abilityNames>			              
+			            <string>Detect Weapon</string>
+			            <string>Fireblood</string>
+			            <string>First Impression</string>            
+			            <string>Heartening Laugh</string>
+			            <string>Read/Write Language</string>
+			            <string>Shield Charge</string>
+			            <string>Wound Balance</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>    
+		            <abilityNames>			                    
+			            <string>Conceal Object</string>
+			            <string>Detect Trap</string>
+			            <string>Elemental Tongues</string>
+			            <string>Fire Heal</string>
+			            <string>Leadership</string>            
+			            <string>Read/Write Magic</string>
+			            <string>Resist Taunt</string>
+			            <string>Temper Other</string>
+		            </abilityNames>			              
+	        	</listByCircle> 		                      
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>      
+		            <abilityNames>			            
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Travelling Smithy</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle> 
+		            <abilityNames>			                       
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Damage Tests With Self-Made Weapons</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>      
+		            <abilityNames>			                  
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>                                                 
+	    </discipline> 
+	    <discipline>
+	        <disciplineName>Wizard</disciplineName>        
+	        <disciplineDescription>Wizards are spellcasters well-trained in the theoretical aspects of magic. Those who follow other spellcasting Disciplines sometimes disparage Wizards as being simple “book magicians,” but it is interesting to note that very few have the guts to call a Wizard that to his face.</disciplineDescription>
+	        <halfMagic>Wizards may use Half-Magic to recognize different types of magic use, identify specific uses of Wizardry, and for knowledge of magical rituals.</halfMagic>
+	        <karmaRitual>To perform his Karma ritual, the Wizard draws a circle at least two yards in diameter, then inscribes a triangle within the circle. Making any corrections necessary for accuracy in drawing the first circle, the Wizard draws another circle inside the triangle. Then a triangle within that circle, and so on. Soon the Wizard will be forced to create figures smaller than hand and stylus can possibly draw. He must use the power of magic to continue to draw, even when the results become too small to be seen with the naked eye. The half-hour-long sequence ends with a triangle and is complete once this final triangle is drawn.</karmaRitual>        
+	        <commonArtisanSkills>Manuscript Illumination, Robe Embroidery</commonArtisanSkills>        
+	        <importantAttributes>Perception, Willpower</importantAttributes>        
+	        <disciplineTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle>
+		            <abilityNames>			            
+			            <string>Astral Sight</string>
+			            <string>Karma Ritual</string>
+			            <string>Read/Write Magic</string>            
+			            <string>Spellcasting</string>
+			            <string>Spell Matrix</string>
+			            <string>Thread Weaving - Wizardry</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle>           
+		            <abilityNames>			             
+			            <string>Durability 4/3</string>
+			            <string>Read/Write Language</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>
+		            <abilityNames>			            
+		            	<string>Book Memory</string>
+		            </abilityNames>			                        
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle> 
+		            <abilityNames>			                       
+		            	<string>Research</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>     
+		            <abilityNames>			                   
+		            	<string>Steel Thought</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>        
+		            <abilityNames>			                
+		            	<string>Book Recall</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle> 
+		            <abilityNames>			                       
+		            	<string>Resist Taunt</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle>            
+		            <abilityNames>			            
+		            	<string>Hold Thread</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </disciplineTalents>                                                
+	        <optionalTalents>
+	        	<listByCircle> 	            
+		            <circle>1</circle> 
+		            <abilityNames>			                       
+			            <string>Arcane Muttering</string>            
+			            <string>Conversation</string>
+			            <string>Creature Analysis</string>
+			            <string>Evidence Analysis</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>2</circle> 
+		            <abilityNames>			                       
+			            <string>Abate Curse</string>
+			            <string>Detect Weapon</string>
+			            <string>Item History</string>
+			            <string>Search</string>
+			            <string>Speak Language</string>
+			            <string>Spell Matrix</string>
+			            <string>Spell Matrix</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>   
+		            <abilityNames>			                     
+			            <string>Detect Trap</string>
+			            <string>Direction Sense</string>            
+			            <string>Enhanced Matrix</string>
+			            <string>Enhanced Matrix</string>
+			            <string>Lifesight</string>
+			            <string>Lip Reading</string>
+			            <string>Orbital Spy</string>
+			            <string>Willforce</string>
+		            </abilityNames>			              
+	        	</listByCircle> 		                      
+	        </optionalTalents>        
+	        <abilities>
+	        	<listByCircle> 	            
+		            <circle>2</circle>
+		            <abilityNames>			            
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Perception Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>Book Mage</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>6</circle>   
+		            <abilityNames>			                     
+		            	<string>Karma: Willpower Only Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>7</circle>
+		            <abilityNames>			                        
+		            	<string>Karma: Spell Effect Tests</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>8</circle> 
+		            <abilityNames>			                       
+		            	<string>+1 Spell Defense</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </abilities>
+	        <spells>
+	        	<listByCircle> 	            
+		            <circle>1</circle>   
+		            <abilityNames>			                     
+		            	<string>Perception step points to spend on first and second circle spells. (2pts per second circle spell)</string>
+		            </abilityNames>			            
+	        	</listByCircle>        
+	        	<listByCircle> 
+		            <circle>2</circle>
+		            <abilityNames>			                        
+		            	<string>A Second Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>3</circle>    
+		            <abilityNames>			                    
+		            	<string>A Third Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>4</circle> 
+		            <abilityNames>			                       
+		            	<string>A Fourth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 
+	        	<listByCircle> 
+		            <circle>5</circle>
+		            <abilityNames>			                        
+		            	<string>A Fifth Circle Spell</string>
+		            </abilityNames>			            
+	        	</listByCircle> 		            
+	        </spells>  
+	    </discipline>                                                                                    
+    </disciplines>                                
+</disciplines>

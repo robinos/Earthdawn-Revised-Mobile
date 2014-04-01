@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Earthdawn Revised</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_new_character">New Character</string>
+    <string name="button_load_character">Load Character</string>
+    <string name="button_library">Reference Library</string>
+    <string name="button_help">Help</string>
+    <string name="title_activity_library_menu">Library Menu</string>
+    <string name="button_namegivers">Namegivers</string>
+    <string name="button_disciplines">Disciplines</string>
+    <string name="button_talents">Talents</string>
+    <string name="button_skills">Skills</string>
+    <string name="button_spells">Spells</string>
+    <string name="button_general">General</string>
+    <string name="title_adjust_character">Character</string>
+    <string name="title_select_discipline">Disciplines</string>
+    <string name="title_select_race">Namegivers</string>
+    <string name="title_activity_character_creator">Character Creator</string>
+    <string name="title_itemcreatornamegiver_detail">Namegiver Detail</string>
+    <string name="title_itemcreatornamegiver_list">Namegivers</string>
+    <string name="title_itemcreatordiscipline_list">Disciplines</string>
+    <string name="title_itemcreatordiscipline_detail">Discipline Detail</string>
+    <string name="string_race"><![CDATA[<b><u>Race: </u></b>]]></string>
+    <string name="title_librarynamegiver_list">Namegivers</string>
+    <string name="title_librarynamegiver_detail">Namegiver Detail</string>
+
+</resources>
